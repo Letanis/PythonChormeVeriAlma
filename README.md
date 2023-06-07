@@ -1,0 +1,2 @@
+# PythonChormeVeriAlma
+USBHackingilepythonchormeverialma
